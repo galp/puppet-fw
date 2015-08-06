@@ -5,6 +5,6 @@
     "license": "MIT",
     "summary": "firewall",
     "source": "https://github.com/galp/puppet-fw",
-    "project_page": "https://github.com/galp/puppet-fw"
+    "project_page": "https://github.com/galp/puppet-fw",
     "dependencies": []
 }
